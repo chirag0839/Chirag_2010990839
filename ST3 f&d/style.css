@@ -1,0 +1,29 @@
+
+body{
+    background-color: black;
+ background-size: cover;
+ background-repeat: no-repeat ;
+}
+.planet{
+    position: relative;
+    margin: 15px;
+    color: white;
+    
+}
+.planet img{
+        height: 300px;
+    width: 300px;
+}
+
+#a1{
+	 margin-left: 115px;
+    display: flex;
+} 
+#a2{
+	 margin-left: 115px;
+    display: flex;
+} 
+#input{
+    margin-left: 750px;
+    color: white;
+}
